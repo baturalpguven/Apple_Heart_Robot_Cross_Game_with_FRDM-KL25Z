@@ -10,3 +10,8 @@ In the project, a keypad, LEDs, FRDM-kl25z, breadboard, LCD screen, HCSR04, step
 
 
 
+<div align="center">
+
+[![Video](https://user-images.githubusercontent.com/77858949/185225156-106e51d8-73aa-4bdc-8c96-2808dd0eb9ce.mp4)](https://www.youtube.com/watch?v=VIDEO_ID)
+
+</div>
